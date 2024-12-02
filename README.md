@@ -6,8 +6,11 @@ in soundscape 1. On one side is nature sounds and the other is sounds you would 
 
 General File Description: 
 Soundscape 1: The main control of the transition, shows where each sound gets divided to. 
+
 Random Container 2: Shows the list of sounds and what douns is randomly picked and playing. 
+
 Polygroove: Makes sure sounds come out. 
+
 Buffers 2: Where sounds are stored. 
 
 How to use: 
