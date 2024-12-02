@@ -11,6 +11,6 @@ Polygroove: Makes sure sounds come out.
 Buffers 2: Where sounds are stored. 
 
 How to use: 
-1. Make sure all files are downloaded and the the sounds in the buffer are properly loaded
-2. Make sure sound is on
+1. Make sure all files are downloaded and the the sounds in the buffer are properly loaded.
+2. Make sure sound is on.
 3. Have fun with the bar and hearing the changes. 
