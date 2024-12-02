@@ -1,8 +1,7 @@
 # 488--Music--HMWK-1
 Max/MSP Homework with explanation 
 
-Description: This series of Max pads takes two banks of .wav files and with the use of a scroll bar, you can have a transition between two sets of sounds by adjusting the bar 
-in soundscape 1. On one side is nature sounds and the other is sounds you would hear in Chicago. This was inspired by a trip to Morse Park. 
+Description: This project was inspired by a trip to Morse Park in Chicago. This series of Max files uses two sound banks and a drag bar to transition between types of sound in a controlled manner. It randomly chooses sounds to play from a specific sound bank(or banks) dependent on where the sliding bar is placed. 
 
 General File Description: 
 Soundscape 1: The main control of the transition, shows where each sound gets divided to. 
